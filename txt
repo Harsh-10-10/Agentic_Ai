@@ -1,1 +1,4 @@
 Files
+DB_HOST=
+DB_PATH=
+DB_TOKEN=
